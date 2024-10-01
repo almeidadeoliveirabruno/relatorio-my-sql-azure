@@ -30,6 +30,6 @@ O James é o único sem gerente associado, indicando que ele pode ser o chefe. U
 7) Para saber quantos colaboradores existem por gerente, foi utilizado o gráfico árvore hierárquica no relatório. (solicitado pelo desafio).
 
 ## Relatório
-![Relatório do projeto](imagens/Relatorio.png)
+<img src="Imagens\Relatorio.png" alt="">
 [Clique aqui para acessar o relatório publicado](https://app.powerbi.com/view?r=eyJrIjoiMDMwNmU3MGQtMWE5Zi00YzViLTk4NWYtMGExYzBkYzY1MzdiIiwidCI6ImRlMzBiODk3LWVhZGQtNDkxMS1iN2IxLTJlODExOGM1MDkzZCJ9)
 
